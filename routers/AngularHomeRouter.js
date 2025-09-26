@@ -1,5 +1,5 @@
 import express from "express";
-import AngularHomeProduct from "../Model/AngularHomeProduct.js";
+import AngularHomeProduct from "../model/AngularHomeProduct.js";
 const router = express.Router();
 
 // CREATE
